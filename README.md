@@ -14,13 +14,6 @@
 <img src="https://imgs.search.brave.com/LTXMkDoAUEIKrfXB6-nCyFU6URUZCH2L5I-4Io-Hm7o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/T0I5dHkzcEVSY0VB/QUFBTS9tZWd1bWlu/LWtvbm9zdWJhLmdp/Zg.gif" width="200px"/>
 
 
-
-## 📊 Estadisticas (no reflejan conocimiento real, directamente no hay conocimiento)
-
-![GitHub Stats](https://github-readme-stats-ten-orcin-55.vercel.app/api?username=aksaksa5115&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-ten-orcin-55.vercel.app/api/top-langs/?username=aksaksa5115&layout=compact&theme=tokyonight)
-
 ## 🛠 Tecnologías
 
 <img align="right" src="https://imgs.search.brave.com/eDNqZSyv8X15adgg-nM7t5kN_0infSXoQs7C75c_4P8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/eGsyMEVDYm1pZlFB/QUFBTS9hbmltZS1t/ZWd1bWluLmdpZg.gif" width="250px"/>
