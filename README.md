@@ -49,5 +49,5 @@
 
 **Contacto**
 
-Correo: martintati13@gmail.com
-Discord: aksaksa
+- Correo electronico: martintati13@gmail.com
+- Nombre en Discord: aksaksa
